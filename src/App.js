@@ -1,6 +1,8 @@
 import Nav from './Components/Nav';
 import './CSS/App.css';
 import React, {useState} from 'react';
+//import Task2 from './Components/TASK2/Task2';
+
 function App() {
 
   //const [removeSideClass, setRemoveSideClass] = useState();
@@ -13,7 +15,9 @@ function App() {
           <Sidebar />
           <MainDiv />
        </div>
+      <<Task2 />
       */}
+    
     </div>
   );
 }
