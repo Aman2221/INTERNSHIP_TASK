@@ -1,7 +1,7 @@
 import Nav from './Components/Nav';
 import './CSS/App.css';
 import React, {useState} from 'react';
-//import Task2 from './Components/TASK2/Task2';
+//import Task2 from './TASK2/Task2';
 
 function App() {
 
