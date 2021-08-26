@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-## TASK ONE : 
+## 1. TASK ONE : 
 
 
 
@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/59231840/130946545-1ce0ae72-c419-4c7e-
 
 
 
-## TASK TWO : 
+## 2. TASK TWO : 
 
 
 
