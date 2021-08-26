@@ -1,8 +1,8 @@
 # Getting Started with Create React App
-##TASK ONE : 
+## TASK ONE : 
 <img src="https://github.com/Aman2221/Internship_Tesk1/blob/main/src/img/TASK1.png" />
 
-##TASK TWO : 
+## TASK TWO : 
 <img src="https://github.com/Aman2221/Internship_Tesk1/blob/main/src/img/TASK2.png" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
