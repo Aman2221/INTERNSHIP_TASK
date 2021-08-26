@@ -2,10 +2,14 @@
 ## TASK ONE : 
 
 
-https://user-images.githubusercontent.com/59231840/130944886-cfe9c858-92bf-497f-93a2-383962a80e30.mp4
+
+https://user-images.githubusercontent.com/59231840/130946545-1ce0ae72-c419-4c7e-9311-9f0fe0a813ba.mp4
+
+
 
 ## TASK TWO : 
-<img src="https://github.com/Aman2221/Internship_Tesk1/blob/main/src/img/TASK2.png" />
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
