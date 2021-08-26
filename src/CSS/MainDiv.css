@@ -1,0 +1,67 @@
+.rightHomeDivMain {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+  height: max-content;
+}
+.rightSubDiv {
+  width: 96%;
+  height: 90%;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.inputField {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+}
+.inputField > input {
+  padding: 8px;
+  width: 25%;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 10px 6px rgba(0, 0, 0, 0.1);
+  border: 2px solid;
+}
+.boxes {
+  display: grid;
+  grid-template-columns: repeat(5, 100fr);
+  row-gap: 20px;
+  place-content: center;
+  place-items: center;
+}
+.dynamicDiv:nth-child(3n) {
+  background: #03a9f4;
+  color: #fff;
+  box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.4);
+}
+.dynamicDiv {
+  margin-top: 20px;
+  height: 120px;
+  width: 120px;
+  box-shadow: 0px 0px 13px 2px rgba(0, 0, 0, 0.2);
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dynamicDiv > h2 > input {
+  border: none;
+  outline: none;
+  background: transparent;
+  user-select: none;
+}
+.dynamicDiv > input:placeholder-shown {
+  font-size: 14px;
+  text-align: center;
+}
+.dynamicDiv > h2 {
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+.dynamicDiv > h2:nth-child(3) {
+  background: red;
+}
